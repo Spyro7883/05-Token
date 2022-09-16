@@ -14,7 +14,7 @@ Click on F12 to get on Developer Tools. You will get something like this:
 
 <img src="./images/image1.png">
 
-Go on Remix: https://remix.ethereum.org/ and make these changes in both Token.sol. 
+Go on Remix: https://remix.ethereum.org/ and make this change in Token.sol. 
 
 Copy the Token.sol contract found before "submit instance" and "get new instance" buttons.
 
